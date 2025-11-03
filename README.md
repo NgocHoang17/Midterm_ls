@@ -4,6 +4,7 @@
 
 **Sinh viên thực hiện:** Chu Ngọc Hoàng   
 **Mã sinh viên:** 23IT082  
+🔗Link truy cập GitHub: https://github.com/NgocHoang17/Midterm_ls.git
 
 ---
 
